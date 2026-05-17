@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Original artifact | <https://figshare.com/s/f56fd5f5319bbfa5250a> |
+| Original artifact | <https://figshare.com/articles/dataset/On_the_Vulnerability_Proneness_of_Multilingual_Code/16528521/1?file=36522453> |
 | Imported from | the publications page |
 | Tool | `pubs2github` |
 
@@ -13,7 +13,7 @@
 
 ## Contents
 
-The artifact contains 1048 file(s) including Python, Shell scripts, Config files, Data files, and Documentation.
+The artifact contains 1049 file(s) including Python, Shell scripts, Config files, Data files, and Documentation.
 
 ```
 ├── Data
@@ -78,7 +78,7 @@ The artifact contains 1048 file(s) including Python, Shell scripts, Config files
 │   │   ├── 112150776
 │   │   … (1000 more items)
 │   … (1014 more items)
-… (1058 more items)
+… (1059 more items)
 ```
 
 ---
